@@ -1,12 +1,25 @@
-* Welcome to the Forest 
-** This is the README file for this Magic Eight Ball based project.
+<h1 align="center">🌲🔮Consult the Forest Witch!🧹🌲</h1>
+<h2 align="center">Learn your own future... if you DARE.</h2>
 
-The goals for this project:
-   - Create a webpage that has a forest image and central box
-   - Have the text box have a name and a question input
-   - Have a dialogue that changes based on the inputs
-   - Allow users to talk to a forest deity, and ask her for predictions
-   - Have the forest deity count the number of questions that are asked
-   - When 3 questions have been asked, send them to the sea witch, for a different set of responses (different web page?)
-   - Have a 'good' or 'bad' variable that means that they can say 'I'm sorry', or 'I'm happy for you' accurately - ie. input that asks whether this is something we want or not
-   - Incorporate a background image (try to get alternative text for the background image)
+<p>Nobody knows how long the witch has resided in the dark forest. Some say she is as old as the trees themselves. Other say she is young, but sold her beauty for her powers of divination. All we know is that whatever she says... tends to come true. She provides a service to those who manage to find her in her forest... if you ask her a question about the future, she will tell you what is to come. But be warned: some go mad when they learn of a fate they cannot escape.</p>
+
+<h2>Usage</h2>
+<h2>Development</h2>
+This will be a front-end web application, based on a magic eight ball.
+
+These are the basic features I hope to achieve: 
+ - User can ask the witch a question
+ - Witch will give a randomised response
+ - User can choose to ask another question
+ - Witch can remember a user's name
+ - Witch will refuse to answer a user after a certain number of questions asked
+ - Landing page before interactions begin
+ - Deployed on GitHub pages
+ - Maybe have the forest witch send a user to the sea witch if too many questions are asked
+ 
+ 
+<h2>Tests</h2>
+Will try to develop tests in Jest.
+
+<h2>Contribution</h2>
+<h2>License</h2>
